@@ -9,6 +9,7 @@
 ![image](https://github.com/user-attachments/assets/113d425c-bbab-4aa1-9b24-ff9d1a89c2c0)
 ![image](https://github.com/user-attachments/assets/8c7b3eae-bf02-456f-adb9-8342dd3803f9)
 ![image](https://github.com/user-attachments/assets/9abfb65a-2342-4f19-8f4b-92a09f04a76c)
+Model Design:
 ![image](https://github.com/user-attachments/assets/f43915f8-6b3c-4b7c-9b6f-21abb9240ba8)
 
 
